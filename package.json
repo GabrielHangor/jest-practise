@@ -1,0 +1,23 @@
+{
+  "name": "test-practise",
+  "version": "1.0.0",
+  "description": "jest-testing-practise",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielHangor/jest-practise.git"
+  },
+  "author": "Gabriel Habibulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielHangor/jest-practise/issues"
+  },
+  "homepage": "https://github.com/GabrielHangor/jest-practise#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
